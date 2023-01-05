@@ -1,6 +1,5 @@
-var telegram = "https://t.me/xit_thematrix";
-var twitter = "https://twitter.com/exit_thematrix1";
-var email = 'mailto:enter@the-matrix.xyz';
+var telegram = "https://t.me/webservice2022";
+var twitter = "https://twitter.com/devservice2022";
 
 whoare = [
   "<br>",
